@@ -1,0 +1,83 @@
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe.config
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.pdb
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.AssemblyReference.cache
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.AddIntentoryDescription.resources
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.StoreManagerDirectory.resources
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.MaintainProducts.resources
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.Properties.Resources.resources
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.UpdateInventory.resources
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.GenerateResource.cache
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.exe
+C:\Users\carla\OneDrive\Desktop\WoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.pdb
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe.config
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.pdb
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.AssemblyReference.cache
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.AddIntentoryDescription.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.BuyInventory.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.RequestReports.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.StoreManagerDirectory.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.MaintainProducts.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.Properties.Resources.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.UpdateInventory.resources
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.GenerateResource.cache
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.exe
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.pdb
+C:\Users\carla\OneDrive\Desktop\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.RegisterCustomer.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe.config
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.pdb
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.AssemblyReference.cache
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.Properties.Resources.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.GenerateResource.cache
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.exe
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.pdb
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddProducts.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddSupplier.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.BuyInventory.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.BuyProducts.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.CustomerCart.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ErrorMessage.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.Login.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddCustomer.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.RequestReports.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.StoreManagerDirectory.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ViewProducts.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.SupplierDatabase.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateCustomerDetails.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateProducts.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateSupplier.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ViewCustomerDatabase.resources
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsDB.mdf
+C:\Users\user-pc\Downloads\CarlaWoolworthsInventoryProject\WoolworthsInventoryProject\bin\Debug\WoolworthsDB_log.ldf
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\bin\Debug\WoolworthsDB.mdf
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\bin\Debug\WoolworthsDB_log.ldf
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe.config
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.exe
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\bin\Debug\WoolworthsInventoryProject.pdb
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.AssemblyReference.cache
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddProducts.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddSupplier.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.BuyInventory.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.BuyProducts.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.CustomerCart.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ErrorMessage.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.Login.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.AddCustomer.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.RequestReports.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.StoreManagerDirectory.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ViewProducts.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.Properties.Resources.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.SupplierDatabase.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateCustomerDetails.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateProducts.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.UpdateSupplier.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventorySystem.ViewCustomerDatabase.resources
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.GenerateResource.cache
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.exe
+C:\Users\user-pc\Downloads\Woolworths Inventory Management System\WoolworthsInventoryProject\obj\Debug\WoolworthsInventoryProject.pdb
